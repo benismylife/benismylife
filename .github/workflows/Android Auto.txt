@@ -1,0 +1,6 @@
+Android Auto
+Version: 6.2.610914-release
+Size:33.3MB
+Package:com.google.android.projection.gearhead
+Apk path:/data/app/~~OOEdWKN--dtzu3fn0VrfcA==/com.google.android.projection.gearhead-CDx6fFUASWWpOoo7gLrPtQ==/base.apk
+
