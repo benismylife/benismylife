@@ -1,0 +1,52 @@
+{
+  "awards": [
+    {
+      "state": "GIVEN",
+      "badge": {
+        "id": {
+          "servePath": "/profile/badges/events/io/2021/attendee"
+        },
+        "title": "Attendee I/O '21",
+        "description": "Completed Google I/O registration",
+        "imageUrl": "/profile/badges/events/io/2021/attendee/badge.png"
+      },
+      "createTime": "2021-05-15T20:00:17.303917Z"
+    },
+    {
+      "state": "GIVEN",
+      "badge": {
+        "id": {
+          "servePath": "/profile/badges/activity/android/install-android-studio"
+        },
+        "title": "Android Studio User",
+        "description": "I use Android Studio",
+        "imageUrl": "/profile/badges/activity/android/install-android-studio/badge.svg"
+      },
+      "createTime": "2021-04-17T23:06:18.271540Z"
+    },
+    {
+      "state": "GIVEN",
+      "badge": {
+        "id": {
+          "servePath": "/profile/badges/events/beta"
+        },
+        "title": "Google Developer Profile Beta User",
+        "description": "Joined Google Developer Profile while it was in beta",
+        "imageUrl": "/profile/badges/events/beta/beta-user.svg"
+      },
+      "createTime": "2021-03-19T01:38:32.607315Z"
+    },
+    {
+      "state": "GIVEN",
+      "badge": {
+        "id": {
+          "servePath": "/profile/badges/profile/created-profile"
+        },
+        "title": "Created Google Developer Profile",
+        "description": "Created Google Developer Profile",
+        "imageUrl": "/profile/badges/profile/created-profile/created_profile.svg"
+      },
+      "createTime": "2021-03-19T01:38:10.684163Z"
+    }
+  ]
+}

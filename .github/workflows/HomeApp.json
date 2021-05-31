@@ -1,0 +1,21 @@
+{
+    "Home App Data": [
+        {"full_structures": [{
+            "owner_emails": ["nomorepain1688@gmail.com"],
+            "owner_create_times": [{
+                        "value": {
+                                    "seconds": 1617272832,
+                                    "nanos": 496000000
+                        },
+                        "key": "nomorepain1688@gmail.com"
+            }],
+            "structure": {
+                        "create_time": {
+                                    "seconds": 1617272833,
+                                    "nanos": 5508000
+                        },
+                        "personalized_nicknames": ["Home"]
+            }
+}]}
+    ]
+}

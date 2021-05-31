@@ -1,0 +1,15 @@
+{
+  "name": {
+    "givenName": "Benjamin",
+    "familyName": "Acosta",
+    "formattedName": "Benjamin Acosta"
+  },
+  "displayName": "Benjamin Acosta",
+  "emails": [{
+    "value": "nomorepain1688@gmail.com"
+  }],
+  "birthday": "2000-03-01",
+  "gender": {
+    "type": "other"
+  }
+}
